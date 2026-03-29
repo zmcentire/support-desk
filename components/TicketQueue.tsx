@@ -64,7 +64,6 @@ export function TicketQueue() {
             onKeyDown={(e) => {
               if (e.key === "Enter" || e.key === " ") selectTicket(tk.id);
             }}
-            aria-selected={tk.id === selectedId}
           >
             <div style={{ minWidth: 0 }}>
               <div
