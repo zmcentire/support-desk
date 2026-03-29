@@ -8,7 +8,7 @@ An AI-powered support ticket dashboard built with Next.js 14, TypeScript, and th
 ![Zustand](https://img.shields.io/badge/Zustand-brown?style=flat)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
-**[Live Demo →](https://support-desk.vercel.app)**
+**[Live Demo →] (https://support-desk-teal.vercel.app)**
 
 ---
 
